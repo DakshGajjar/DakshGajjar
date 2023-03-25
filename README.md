@@ -1,7 +1,5 @@
-### Hi there 👋
-
 # 💫 About Me:
-I'm Cybersecurity enthusiast with expertise in Python3.
+Hi, I'm Daksh. I'm Cybersecurity enthusiast with expertise in Python3.
 
 
 ## 🌐 Socials:
